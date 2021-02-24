@@ -1,0 +1,35 @@
+h1 {
+    color: navy;
+    font-style: bold;
+}
+
+h2, h3, h4 {
+    color: blue;
+}
+
+h3, h4 {
+    color: lightsteelblue;
+    font-style: italic;
+}
+
+a:link {
+    color:orchid;
+}
+
+a:visited {
+    color:indigo;
+}
+
+.team-showcase {
+    background-color: rgba(255, 255, 128, .5);
+}
+
+.body {
+    background-color: lightcyan;
+}
+
+.bodyText, .team-showcaseText {
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
